@@ -90,3 +90,16 @@ If you use this repository or its contents, please cite the following publicatio
 Attitudinal responses to current concepts and opinions from pain neuroscience education on social media.
 Musculoskeletal Science and Practice, 59, 102551.
 https://doi.org/10.1016/j.msksp.2022.102551**
+
+Contact
+
+For questions or contributions, please contact:
+Asaf Weisman
+Spinal Research Laboratory
+Tel Aviv University
+Email: asafweisman@gmail.com
+
+License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License
+https://creativecommons.org/licenses/by-nc/4.0/
